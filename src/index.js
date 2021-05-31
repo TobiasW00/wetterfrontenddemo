@@ -13,7 +13,7 @@ const configuration = {
         clientId: "2e26f23b-224f-4ba1-bc0b-8942cc1e70a8",
         authority: 'https://standardcloud1.b2clogin.com/standardcloud1.onmicrosoft.com/B2C_1_AnmeldenRegistrieren',
         knownAuthorities :["https://standardcloud1.b2clogin.com"],
-        redirectUri: 'http://localhost:3000',
+        redirectUri: 'https://delightful-river-0a23f1610.azurestaticapps.net',
     }
 };
 
